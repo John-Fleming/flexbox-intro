@@ -41,6 +41,19 @@ body {
     background-color: #111;
 }
 
+/**** Dogs Page ****/
+
+.dogs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.dogs img {
+    height: 250px;
+    margin: 50px;
+}
+
 footer {
     width: 100%;
     color: #111;
